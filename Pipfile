@@ -9,6 +9,8 @@ rich = "*"
 requests-cache = "*"
 pyinstaller = "*"
 numpy = "*"
+macholib = "*"
+cattrs = "*"
 
 [dev-packages]
 
